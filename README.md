@@ -1,6 +1,6 @@
 1. OVERVIEW
 
-This is a readme for code I wrote for a data scientist coding challenge. I can be contacted at zachary.b.winoker@gmail.com.
+This is a readme for code I wrote for a data scientist coding challenge. See the paper at http://zackwinoker.com/whisper
 
 Before using the code, please refer to the white paper for details on the methods used. 
 
